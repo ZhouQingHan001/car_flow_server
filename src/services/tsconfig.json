@@ -1,0 +1,58 @@
+{
+  "data_id_no_n": [
+    {
+      "CrossTrafficData": {
+        "CrossID": "17091608",
+        "DeviceType": "B",
+        "DateTime": "2017-12-15 18:20:21",
+        "Interval": 60,
+        "DataList": {
+          "Data": {
+            "LaneNo": "001",
+            "Volume": 6,
+            "AvgOccupancy": 791,
+            "AvgHeadTime": 12502,
+            "AvgLength": 8.7,
+            "AvgSpeed": 39.57,
+            "Saturation": 0,
+            "Density": 0,
+            "Pcu": 0,
+            "AveQueueLength": 0,
+            "Volume1": 0,
+            "Volume2": 0,
+            "Volume3": 0,
+            "Volume4": 0,
+            "Volume5": 0
+          }
+        }
+      }
+    },
+    {
+      "CrossTrafficData": {
+        "CrossID": "17091608",
+        "DeviceType": "B",
+        "DateTime": "2017-12-15 18:19:21",
+        "Interval": 60,
+        "DataList": {
+          "Data": {
+            "LaneNo": "001",
+            "Volume": 8,
+            "AvgOccupancy": 797,
+            "AvgHeadTime": 7640,
+            "AvgLength": 7.03,
+            "AvgSpeed": 31.74,
+            "Saturation": 0,
+            "Density": 0,
+            "Pcu": 0,
+            "AveQueueLength": 0,
+            "Volume1": 0,
+            "Volume2": 0,
+            "Volume3": 0,
+            "Volume4": 0,
+            "Volume5": 0
+          }
+        }
+      }
+    }
+  ]
+}
